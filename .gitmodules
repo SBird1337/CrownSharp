@@ -1,0 +1,3 @@
+[submodule "GcnSharp"]
+	path = GcnSharp
+	url = https://github.com/SBird1337/GcnSharp.git
