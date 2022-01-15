@@ -1,6 +1,8 @@
 ﻿using System;
+using GcnSharp.Core;
+using GcnSharp.Logging;
 
-namespace CrownSharp
+namespace CrownSharpCli
 {
     class Program
     {
